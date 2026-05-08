@@ -54,6 +54,8 @@ admin123@gmail.com mk: 11111111
 <img width="1266" height="154" alt="image" src="https://github.com/user-attachments/assets/8ea70d57-9949-4944-ae93-a9ab616ce520" />
 ### Thành công Dijago
 <img width="733" height="156" alt="image" src="https://github.com/user-attachments/assets/a9defc71-c8e0-4135-ae95-bbdb3eb8a77c" />
+## Index.html
+<img width="1360" height="1020" alt="image" src="https://github.com/user-attachments/assets/de306200-055b-4416-82c1-52a7eae26eff" />
 
 
 ## BƯỚC 7: KIỂM TRA & PUBLIC (CLOUDFLARE)
@@ -70,10 +72,8 @@ PhpMyAdmin: Truy cập http://<IP_Ubuntu>:9630 để soi các bảng.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/86f612ce-96d0-4dae-96bb-236426fce12c" />
 php:9631 
 admin: 8080
-Cloudflare Tunnel:
+### Kết quả
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee06ee8e-4382-4fc1-84af-9bd556fcd308" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/126c77ed-44dc-480c-bfcd-235da88049cf" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3d8844d6-f6a2-4c3f-bbc3-6bb25c0222da" />
 
-Cài cloudflared trên Ubuntu.
-
-Chạy lệnh: cloudflared tunnel --url http://localhost:80
-
-Nó sẽ cho anh một cái link sub-domain dạng xxx.trycloudflare.com. Copy link đó chụp ảnh nộp bài là xong!
